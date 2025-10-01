@@ -1,10 +1,12 @@
-* {
+*{
     margin: o;
     padding: 0;
 }
-img {
-    width: 100px;
 
+.heder{
+    text-align: center;
+    padding:10px;
+    background-color: white;
 }
 .kdo{
     text-align: center;
@@ -12,21 +14,35 @@ img {
 }
 .menu li{
     display: inline-block;
-    margin: 10px;
-    padding: 10px;
-   
-    
+    margin: 5px;
+    padding: 5px;
 }
-.menu{
-    text-align: center;
-}
-body{
-    background-color: rosybrown;
+.pirveli{
+    background-color: rgb(214, 178, 178);
 }
 .conteiner{
     background-color: white;
     max-width: 700px;
     margin: auto;
-
 }
-.heder{background-color: white;}
+.menu2 li{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.menu2 {
+    background-color: rgb(85, 141, 85);
+    text-align: center;
+}
+.dinner{
+    text-align: center;
+  
+}
+p {
+    color: rgb(67, 64, 64);
+}
+.dinner2{
+    text-align: center;
+  
+}
